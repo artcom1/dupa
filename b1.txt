@@ -1,3 +1,6 @@
 bbb
+<<<<<<< Upstream, based on branch 'master' of https://github.com/artcom1/dupa.git
 bbb
 cc
+=======
+>>>>>>> 687f13a Dwa pliki
